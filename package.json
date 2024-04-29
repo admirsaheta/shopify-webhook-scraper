@@ -7,5 +7,10 @@
   },
   "peerDependencies": {
     "typescript": "^5.0.0"
+  },
+  "dependencies": {
+    "@jsonhero/schema-infer": "^0.1.5",
+    "cheerio": "^1.0.0-rc.12",
+    "got": "^14.2.1"
   }
 }
